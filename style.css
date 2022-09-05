@@ -1,0 +1,13 @@
+body{
+  background-image: linear-gradient(120deg, LawnGreen, SpringGreen);
+}
+header{
+  text-align: center;
+  /* centralizando a imagem do topo */
+}
+nav{
+  background-color: burlywood;
+  margin: 5px 20px; 
+ /* cor do background da guia <nav> e a margem do mesmo */
+  
+}
